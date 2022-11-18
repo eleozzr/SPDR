@@ -4,6 +4,9 @@
 
 This repository contains the code for the article **Structure preserved dimension reduction using triplets for integration of single cell transcriptomics data** by Xu _et al._
 
+![](./workflow.png)
+
+
 SPDR is a novel **s**tructure **p**reserved **d**imension **r**eduction method using inter-batch triplets to simultaneously account for global structure,  remove batch effect and improve low-dimensional visualization of scRNA-seq data.
 
 ## Gettting started
